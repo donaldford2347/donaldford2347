@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Project1, Configuration: Debug Win32 ------
+1>hw1.cpp
+1>Z:\hw1\Project1\hw1.cpp(10): error C4716: 'getposition': must return a value
+1>Done building project "Project1.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

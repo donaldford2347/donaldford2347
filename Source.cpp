@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+
+int main(void) {
+	string myname;
+	cout<< "Enter your name";
+	cin >> myname;
+	cout << "Hello world my name is " << myname << endl;
+
+	return 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
